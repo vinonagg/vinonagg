@@ -1,35 +1,99 @@
-# Hi there, I'm Vinoth 👋
+<div align="center">
 
-I'm building AI agentic systems that automate real workflows — coming from **8+ years in Amazon operations management**, now pivoting into **AI/GenAI program delivery and automation engineering**.
+# Hi, I'm Vinoth Nagarajan 👋
 
-I like picking a boring, repetitive process and replacing it with a pipeline that runs itself.
+### AI Program Manager · GenAI & Agentic Automation · 14+ Years Enterprise Leadership (Amazon)
 
-- 🤖 I build **multi-agent Python pipelines** — content generation, research digests, scheduled automations — that run unattended via cron/launchd.
-- 🔌 I work with the **Model Context Protocol (MCP)** — writing custom MCP servers that connect Claude to real data sources and APIs.
-- 📋 My background is **operations & program management at scale** (Amazon), which is why I care more about reliability, approval gates, and "does this actually run at 9am every day" than shiny demos.
-- 📊 I turn automation output into things a human can act on — daily digests, staged approvals, dashboards — not black boxes.
+I bridge large-scale enterprise operations leadership with hands-on agentic AI engineering —
+designing and shipping multi-agent systems, GenAI automations, and AI-driven operations tooling.
 
-### Things I've built
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinonagg-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinonagg)
+[![Email](https://img.shields.io/badge/Email-vinothnagarajan13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinothnagarajan13@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/vinonagg?label=Follow&style=flat-square&logo=github)](https://github.com/vinonagg)
 
-| Project | What it does |
+</div>
+
+<br>
+
+## About Me
+
+After 14+ years leading enterprise operations at **Amazon**, I'm now focused on **AI/GenAI program delivery and automation engineering** — taking the same rigor I applied to operational scale (reliability, governance, human-in-the-loop controls) and applying it to agentic AI systems that actually run in production, not just in demos.
+
+- 🧠 I design **multi-agent AI systems** — agentic control towers, autonomous decisioning, and workflow orchestration.
+- 🔗 I build with **LangChain, CrewAI, AutoGen, and n8n** to turn manual, repetitive processes into governed automations.
+- 📋 My operations background means I bias toward **auditability, approval gates, and reliability** over flashy but fragile demos.
+- 📊 I connect AI systems to real business outcomes — customer operations, supply chain risk, denials management, SEO, and more.
+
+<br>
+
+## 🧩 Featured Projects
+
+**Agentic AI Systems**
+| Project | Description |
 |---|---|
-| 🎬 **Faceless YouTube pipeline** | Multi-agent pipeline that picks a daily sub-topic in a locked niche, renders a captioned 1080p video (TTS voice, Ken-Burns/stock b-roll), and stages it to YouTube for one-tap approval — fully self-hosted, no paid APIs by default. |
-| 💼 **Job-search automation** | Human-in-the-loop daily job digest across LinkedIn + Indeed — a custom MCP server for LinkedIn sourcing, resume-matching, and tailored pitch drafts, with a scheduled task delivering a digest every morning. |
+| [AURA – AI Customer Operations Control Tower](https://github.com/vinonagg/AURA-AI-Customer-Operations-Control-Tower) | Agentic AI control tower for customer operations — policy-grounded resolution, governed automation, human approval, auditability, and value modeling. |
+| [Autonomous Denials Management](https://github.com/vinonagg/Autonomous-Denials-Management) | Automated system for identifying, triaging, and resolving claim/order denials. |
 
-I keep humans in the loop by design wherever a platform's terms or API limits require it (e.g. staged YouTube uploads pending audit, no auto-apply on LinkedIn) — automate the grunt work, leave the judgment call to a person.
+**Multi-Agent Frameworks**
+| Project | Description |
+|---|---|
+| [SEO Multi-Agent](https://github.com/vinonagg/SEO-Multi-Agent) | Multi-agent SEO content generation system built with Microsoft AutoGen, OpenAI, Tavily, and Streamlit. |
+| [CrewAI Customer Support Multi-Agent](https://github.com/vinonagg/CrewAI-customer-support-multi-agent) | CrewAI-based multi-agent system for automated customer support workflows. |
+| [KG-RAG with LangChain + Neo4j](https://github.com/vinonagg/KG-RAG-LangChain-Neo4j) | Knowledge-graph-backed RAG pipeline combining LangChain with Neo4j. |
 
-### Get in touch
+**Workflow & Process Automation**
+| Project | Description |
+|---|---|
+| [Multi-Agent AI Workflow (n8n)](https://github.com/vinonagg/Multi-Agent-AI-Workflow-n8n) | Multi-agent orchestration built on n8n workflow automation. |
+| [n8n Email Classification](https://github.com/vinonagg/N8n-Email-Classification) | Automated email triage and classification workflow. |
+| [AI Automation – Gmail](https://github.com/vinonagg/AI-Automation-Gmail) | AI-driven automation for Gmail workflows. |
+| [ETL AI Automation](https://github.com/vinonagg/ETL-AI-Automation) | AI-assisted ETL pipeline automation. |
 
-- 📧 Email — [vinothnagarajan13@gmail.com](mailto:vinothnagarajan13@gmail.com)
-- 💼 LinkedIn — [linkedin.com/in/vinonagg](https://linkedin.com/in/vinonagg)
+**Analytics & Applied AI**
+| Project | Description |
+|---|---|
+| [Supply Chain Performance & Risk Analytics](https://github.com/vinonagg/Supply-Chain-Performance-Risk-Analytics) | End-to-end supply chain analytics — procurement, vendor performance, inventory risk, logistics, shipments, returns, SQL analytics, and BI dashboarding. |
+| [GenAI YouTube MicroSaaS](https://github.com/vinonagg/GenAI-Youtube-MicroSaas) | GenAI-powered micro-SaaS for YouTube content workflows. |
+| [AI Voice Agent](https://github.com/vinonagg/AI-Voice-Agent) | Conversational AI voice agent. |
+| [RAG over PDFs](https://github.com/vinonagg/RAG_PDF) | Retrieval-augmented generation pipeline for querying PDF documents. |
+| [Farmer AI Assistant](https://github.com/vinonagg/Farmer_AI_Assistant) | AI assistant built to support farmers with domain-specific guidance. |
+| [AI Translator](https://github.com/vinonagg/AI-Translator) | AI-powered language translation tool. |
 
----
+<div align="right"><sub><a href="https://github.com/vinonagg?tab=repositories">See all repositories →</a></sub></div>
 
-<p align="center">
+<br>
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinonagg&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Vinoth's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinonagg&hide_border=true" alt="Vinoth's GitHub streak" height="165"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinonagg&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinonagg)
+[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinothnagarajan13@gmail.com)
+
+</div>
