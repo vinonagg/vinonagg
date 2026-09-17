@@ -26,10 +26,10 @@ I keep humans in the loop by design wherever a platform's terms or API limits re
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinothnagarajan13&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Vinoth's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothnagarajan13&hide_border=true" alt="Vinoth's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinonagg&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Vinoth's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinonagg&hide_border=true" alt="Vinoth's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothnagarajan13&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinonagg&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
